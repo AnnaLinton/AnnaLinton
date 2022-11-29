@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnnaLinton
-- 👀 I’m interested in NLP, Machine Learning, Healthcare, Data science
+- 👀 I’m interested in NLP, Machine Learning, Healthcare and Data Science
 - I worked on this [Structural Topic Modelling](https://github.com/nhsx/stm-survey-text/commits?author=AnnaLinton) project while on an internship with NHSX in 2022
 
 <!---
