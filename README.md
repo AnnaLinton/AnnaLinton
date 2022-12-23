@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AnnaLinton
 - 👀 I’m interested in NLP, Machine Learning, Healthcare and Data Science
+- Most of my repos are private - but I do better in the future!
 - I worked on this [Structural Topic Modelling](https://github.com/nhsx/stm-survey-text/commits?author=AnnaLinton) project while on an internship with NHSX in 2022
 
 <!---
